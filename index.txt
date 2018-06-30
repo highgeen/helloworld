@@ -1,0 +1,13 @@
+ Volume in drive D is Data
+ Volume Serial Number is F20E-FBD2
+
+ Directory of D:\exp\javaProject1
+
+06/30/2018  03:46 PM    <DIR>          .
+06/30/2018  03:46 PM    <DIR>          ..
+06/30/2018  02:25 PM               674 Hello.class
+06/25/2018  10:36 AM               170 Hello.java
+06/30/2018  03:46 PM                 0 index.txt
+06/25/2018  10:34 AM                 0 New Text Document.txt
+               4 File(s)            844 bytes
+               2 Dir(s)  95,727,542,272 bytes free
